@@ -1,3 +1,6 @@
 baris 1
 dan ini baris 2
 dan tentunya yang ini baris 3
+mencoba menambahkan hal baru pada master file
+baris ke 1 penambahan
+baris ke 2 penambahan
